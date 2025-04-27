@@ -36,6 +36,11 @@
 			"github_slug": "kiranshila/Doplarr"
 		},
 		{
+			"name": "Download Viewarr",
+			"description": "Download progress interface for whatever request app you use Ombi, Overseerr, Requesterr, or just your own webpage. Works with Radarr and Sonarr. See Github Screenshots.",
+			"github_slug": "pir8radio/DownloadViewarr"
+		},
+		{
 			"name": "Elsewherr",
 			"description": "See disclaimer on page. See if your movies from Radarr are available on a streaming service, and add a tag against the movie if it is.",
 			"github_slug": "Adman1020/Elsewherr"
